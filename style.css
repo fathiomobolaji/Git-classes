@@ -1,0 +1,52 @@
+* {
+    font-family: UberMove, sans-serif;
+}
+body{
+    background-color:rgba(245, 190, 8, 0.966);
+}
+
+img {
+margin-left:30px;
+
+}
+
+a {
+border-radius: 40px;
+text-decoration: none;
+font-weight:700 ;
+}
+nav {
+    float: right;
+    margin-top: 30px;
+}
+div{
+    margin-left:30px;
+}
+input{
+width:500px; height: 50px;
+}
+select {
+    width:200px; height:55px;
+    font-size: 15px;
+    padding: 15px;
+}
+form { 
+ display: inline;
+}
+button {
+width:150px;
+height:55px;
+border-radius:10px;
+color: white;
+background-color: black;
+font-size: 15px;
+font-weight: bolder;
+margin-right: 400px;
+}
+br{
+    background-color: white;
+}
+ul{
+    text-decoration:none;
+float:right;
+}
